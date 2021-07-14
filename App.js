@@ -18,7 +18,7 @@
         <View style={{flex:1,flexDirection: "row",backgroundColor: "green",justifyContent:"flex-end"}}><Text style={{width: 50, height:50, backgroundColor:"black",margin:10}}></Text></View>
         </View>
       <View style={{ flex:1, flexDirection: "row"}}>
-        <View style={{flex:1,backgroundColor: "yellow",justifyContent:"flex-end"}}><Text style={{width: 50, height:50, backgroundColor:"black",margin:10}}></Text></View>
+        <View style={{flex:1,backgroundColor: "yellow",justifyContent:"flex-end"}}><Text style={{width: 50, height:50, backgroundColor:"white",margin:10}}></Text></View>
         <View style={{flex:1,flexDirection: "column",backgroundColor: "red",justifyContent:"flex-end"}}>
           <View style={{flexDirection: "row",justifyContent:"flex-end"}}>
             <Text style={{width: 50, height:50, backgroundColor:"black",margin:10}}></Text>
